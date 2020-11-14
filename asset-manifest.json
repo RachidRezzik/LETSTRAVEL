@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/LETSTRAVEL/static/css/main.937b3ba2.chunk.css",
-    "main.js": "/LETSTRAVEL/static/js/main.417cd4ca.chunk.js",
-    "main.js.map": "/LETSTRAVEL/static/js/main.417cd4ca.chunk.js.map",
+    "main.js": "/LETSTRAVEL/static/js/main.e90fab8c.chunk.js",
+    "main.js.map": "/LETSTRAVEL/static/js/main.e90fab8c.chunk.js.map",
     "runtime-main.js": "/LETSTRAVEL/static/js/runtime-main.951e476e.js",
     "runtime-main.js.map": "/LETSTRAVEL/static/js/runtime-main.951e476e.js.map",
-    "static/js/2.cbe31be8.chunk.js": "/LETSTRAVEL/static/js/2.cbe31be8.chunk.js",
-    "static/js/2.cbe31be8.chunk.js.map": "/LETSTRAVEL/static/js/2.cbe31be8.chunk.js.map",
+    "static/js/2.1ab92de1.chunk.js": "/LETSTRAVEL/static/js/2.1ab92de1.chunk.js",
+    "static/js/2.1ab92de1.chunk.js.map": "/LETSTRAVEL/static/js/2.1ab92de1.chunk.js.map",
     "index.html": "/LETSTRAVEL/index.html",
     "static/css/main.937b3ba2.chunk.css.map": "/LETSTRAVEL/static/css/main.937b3ba2.chunk.css.map",
-    "static/js/2.cbe31be8.chunk.js.LICENSE.txt": "/LETSTRAVEL/static/js/2.cbe31be8.chunk.js.LICENSE.txt",
+    "static/js/2.1ab92de1.chunk.js.LICENSE.txt": "/LETSTRAVEL/static/js/2.1ab92de1.chunk.js.LICENSE.txt",
     "static/media/Africa_1.8285af55.jpeg": "/LETSTRAVEL/static/media/Africa_1.8285af55.jpeg",
     "static/media/Africa_2.995d99fd.jpeg": "/LETSTRAVEL/static/media/Africa_2.995d99fd.jpeg",
     "static/media/Africa_3.f79f2f3d.jpeg": "/LETSTRAVEL/static/media/Africa_3.f79f2f3d.jpeg",
@@ -77,8 +77,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.951e476e.js",
-    "static/js/2.cbe31be8.chunk.js",
+    "static/js/2.1ab92de1.chunk.js",
     "static/css/main.937b3ba2.chunk.css",
-    "static/js/main.417cd4ca.chunk.js"
+    "static/js/main.e90fab8c.chunk.js"
   ]
 }
