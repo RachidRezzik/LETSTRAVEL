@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/LETSTRAVEL/static/css/main.937b3ba2.chunk.css",
-    "main.js": "/LETSTRAVEL/static/js/main.e1d0ad24.chunk.js",
-    "main.js.map": "/LETSTRAVEL/static/js/main.e1d0ad24.chunk.js.map",
+    "main.js": "/LETSTRAVEL/static/js/main.3555609f.chunk.js",
+    "main.js.map": "/LETSTRAVEL/static/js/main.3555609f.chunk.js.map",
     "runtime-main.js": "/LETSTRAVEL/static/js/runtime-main.951e476e.js",
     "runtime-main.js.map": "/LETSTRAVEL/static/js/runtime-main.951e476e.js.map",
     "static/js/2.6907321e.chunk.js": "/LETSTRAVEL/static/js/2.6907321e.chunk.js",
@@ -79,6 +79,6 @@
     "static/js/runtime-main.951e476e.js",
     "static/js/2.6907321e.chunk.js",
     "static/css/main.937b3ba2.chunk.css",
-    "static/js/main.e1d0ad24.chunk.js"
+    "static/js/main.3555609f.chunk.js"
   ]
 }
