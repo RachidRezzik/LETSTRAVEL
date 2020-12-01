@@ -1,7 +1,7 @@
 import React, {useState} from 'react'
 import './App.css';
 import {
-  BrowserRouter,
+  HashRouter,
   Route,
   Switch
 } from 'react-router-dom'
@@ -41,19 +41,19 @@ function App() {
 
   return (
     <div className="App">
-      <BrowserRouter>
+      <HashRouter basename=''>
         <NavBar />
         <Switch>
           <Route exact path="/" component={Home}/>
-          <Route exact path="/Africa" component={Africa}/>
-          <Route exact path="/Asia" component={Asia}/>
-          <Route exact path="/NorthAmerica" component={NorthAmerica}/>
-          <Route exact path="/SouthAmerica" component={SouthAmerica}/>
-          <Route exact path="/Europe" component={Europe}/>
+          <Route  path="/Africa" component={Africa}/>
+          <Route  path="/Asia" component={Asia}/>
+          <Route  path="/NorthAmerica" component={NorthAmerica}/>
+          <Route  path="/SouthAmerica" component={SouthAmerica}/>
+          <Route  path="/Europe" component={Europe}/>
         </Switch>
         <img className={scrollNeeded ? "scroll_top active" : "scroll_top"} src={scroll_top} alt="" onClick={handleScrollTop}/>
         <Footer />
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }
