@@ -26,7 +26,7 @@ function Home() {
         <div>
             <div className="imageContainerStyle">
                 <img src={Iceland} className="topImageStyle" alt="" />
-                <h1 className="pageTitleStyle">The World is Awaiting</h1>
+                <h1 className="pageTitleStyle">The World Awaits</h1>
                 <ScrollArrow />
             </div>
             <span id="slider"></span>
