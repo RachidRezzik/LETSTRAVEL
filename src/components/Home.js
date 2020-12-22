@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import Iceland from '../images/iceland.jpeg'
+import Iceland from '../images/iceland.jpg'
 import africa from '../images/africa.png'
 import asia from '../images/asia.png'
 import  NA from '../images/NA.png'
